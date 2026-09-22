@@ -1,0 +1,6 @@
+{
+  "name": "BasketData Studio — Panel BData & Renders",
+  "description": "Suite de renderizado y creación de contenido en vídeo e imágenes para BasketData con Remotion y Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
